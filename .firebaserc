@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "noteitnow": {
+      "hosting": {
+        "noteitnow": [
+          "noteitnow"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "noteitnow"
+  }
+}
